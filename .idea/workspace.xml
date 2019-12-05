@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d3d943e-2a37-411a-8145-04f08f4ed29a" name="Default Changelist" comment="" />
+    <list default="true" id="9d3d943e-2a37-411a-8145-04f08f4ed29a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,11 +21,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="139">
               <caret line="438" column="46" selection-start-line="438" selection-start-column="40" selection-end-line="438" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/controller/CustomerController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="385">
+              <caret line="102" column="51" selection-start-line="102" selection-start-column="51" selection-end-line="102" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2814#2815#0" expanded="true" />
+                <element signature="e#2864#2865#0" expanded="true" />
+                <element signature="e#2925#2926#0" expanded="true" />
+                <element signature="e#2974#2975#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -46,6 +64,9 @@
     <replaceStrings>
       <replace>com.liuweiwei</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="2f6f11d0-39ef-485e-89a3-d8bbceeca9ab" />
@@ -96,6 +117,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1066" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -109,6 +131,24 @@
             <path>
               <item name="ssm-20160826" type="b2602c69:ProjectViewProjectNode" />
               <item name="ssm-20160826" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm-20160826" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm-20160826" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm-20160826" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm-20160826" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="liuweiwei" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm-20160826" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm-20160826" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="liuweiwei" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -270,8 +310,16 @@
       <workItem from="1575373132757" duration="166000" />
       <workItem from="1575513543816" duration="127000" />
       <workItem from="1575517693613" duration="1285000" />
-      <workItem from="1575529097325" duration="33000" />
+      <workItem from="1575529097325" duration="2045000" />
     </task>
+    <task id="LOCAL-00001" summary="v1.0">
+      <created>1575529289626</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575529289626</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -280,12 +328,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25616000" />
+    <option name="totallyTimeSpent" value="27628000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28304905" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28304905" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -303,7 +351,7 @@
       <window_info anchor="bottom" id="Application Servers" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="10" side_tool="true" visible="true" weight="0.32929516" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32893288" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
@@ -323,6 +371,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="v1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1.0" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/spring-web-4.1.3.RELEASE.jar!/org/springframework/web/filter/CharacterEncodingFilter.class">
@@ -556,9 +608,16 @@
     <entry file="file://$PROJECT_DIR$/ssm-20160826.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="438" column="46" selection-start-line="438" selection-start-column="40" selection-end-line="438" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/liuweiwei/controller/CustomerController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1938">
+        <state relative-caret-position="385">
           <caret line="102" column="51" selection-start-line="102" selection-start-column="51" selection-end-line="102" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -567,13 +626,6 @@
             <element signature="e#2925#2926#0" expanded="true" />
             <element signature="e#2974#2975#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="438" column="46" selection-start-line="438" selection-start-column="40" selection-end-line="438" selection-end-column="46" />
         </state>
       </provider>
     </entry>
